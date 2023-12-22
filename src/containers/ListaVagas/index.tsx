@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import FormVagas from '../../components/FormVagas'
 
-import Vaga from '../../components/Vaga'
+import Vaga from '../../components/Vaga/Vaga'
 
 import styles from './ListaVagas.module.css'
 
